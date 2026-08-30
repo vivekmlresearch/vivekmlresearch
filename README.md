@@ -9,7 +9,7 @@
 
 ## Functional Leadership 
 
-Product Management, Commercial Finance, Market strategy development, Go-to-market planning, Global Data Regulations, Cross Functional Collaborations,  Quality and Sales enablement
+Product Management, Commercial Finance, Market strategy development, Go-to-market planning, Global Data Regulations, Cross Functional Collaborations,  Quality and Sales enablement.
 
 ## Technical Leadership
 
