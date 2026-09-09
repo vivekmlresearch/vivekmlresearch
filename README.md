@@ -38,7 +38,7 @@ Product Management, Commercial Finance, Market strategy development, Go-to-marke
 
 `Microsoft Azure` :- Azure Container Apps, App Service, Azure Container Registry, AI Studio, Subscription, Resource Group, Azure Database for PostgreSQL Flexible Server, Key Vault, Azure Monitor, Virtual Machines, Databricks, Azure observability
 
-`Google Cloud Platform` :- Colab Notebooks/A100 GPU/Google Analytics/Adwords/Vertex AI/Data Lake 
+`Google Cloud Platform` :- Colab Notebooks/A100 GPU/Google Analytics/Adwords/Vertex AI/Data Lake (Compute Engine, GKE, Cloud Run, App Engine, Artifact Registry, Cloud Storage, Cloud SQL, BigQuery, Dataflow, Dataproc, Dataplex/Data Lake, Pub/Sub, Vertex AI, Colab/A100 GPU, Cloud Functions, VPC, IAM, Secret Manager, Cloud KMS, Cloud Monitoring & Logging, Cloud Build, Cloud Deploy, Terraform, Google Analytics, Google Ads)
 
 **BI & Visualization:** 
 
