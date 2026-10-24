@@ -2,7 +2,7 @@
 
 10+ years of global experience delivering data-driven solutions across Healthcare, Finance, Energy, and IT services. Passionate about building intelligent systems that bridge the gap between product business strategy and data science innovation.
 
-- **Industry Experience** – Overall 10 years: 8 years in `Digital Technology/IT`, 6 years in `Healthcare` Industry, 3 years in Energy, plus experience in HQ Commercial Finance.
+- **Industry Experience** – Overall 10+ years: 8+ years in `Digital Technology/IT`, 6 years in `Healthcare` Industry, 3 years in Energy, plus experience in HQ Commercial Finance.
 - **Career Interest** - AI Product Management and/or Commercial Product Data Analytics leadership roles.
 
 ---
@@ -21,7 +21,7 @@ Product Management, Commercial Finance, Market strategy development, Go-to-marke
 
 `Machine Learning` : Supervised, Unsupervised, Linear Regression, Logistic Regression
 
-'Generative AI, LLMs': GPT-6 Astra (+ Sol / Luna), GPT-5.5 API, GPT-5.4 mini API, Gemini 4 Argon, Gemini 3.8 Flash, Gemma 4 (31B / 26B MoE), Phi-4 (reasoning-vision-15B / mini-reasoning), MAI-Thinking-1, MAI-Code-1.1-Flash, Nemotron 3 Ultra (+ 3.5 Lightning)
+'Generative AI, LLMs': GPT-6 Astra (+ Sol / Luna), GPT-5.5 API, GPT-5.4 mini API, Gemini 4 Argon, Gemini 3.8 Flash, Gemma 4 (31B / 26B), Phi-4 (reasoning-vision-15B / mini-reasoning), MAI-Thinking-1, MAI-Code-1.1-Flash, Nemotron 3 Ultra (+ 3.5 Lightning)
 
 **Autonomous AI Agents:**
 
