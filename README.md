@@ -7,7 +7,7 @@
 
 ---
 
-AI Prototypes:-
+AI Projects:-
 1. https://vivekmlresearch.github.io/ai-systems-engineering-roadmap/ (GPT 6 Astra)
 2. https://vivekmlresearch.github.io/3d-pathfinding-lab/ (Claude - Deterministic Algorithms)
 3. https://vivekmlresearch.github.io/ai-data-lineage-control-plane/ (GPT 6 Astra)
