@@ -13,8 +13,8 @@ AI Projects & Prototypes:-
 3. https://vivekmlresearch.github.io/ai-data-lineage-control-plane/ (GPT 6 Astra - AI Program Management)
 4. https://vivekmlresearch.github.io/enterprise-ai-os/ (GPT 6 Astra - A control plane for an AI and software organization)
 5. https://share.gemini.google/FtkMSP61vafr (Google Argon 4 - Trusted - End to End Semiconductor Wafer Ultrasound Inspection PCB)
-6. https://share.gemini.google/vkoOfLi3Vs9B (Google Argon 4 - Trusted - Sounds & Waves)
-7. https://share.gemini.google/Qfu0aTRVzmkI (Google Argon 4 - Trusted - F1 Racing with AI Agents)
+6. https://share.gemini.google/vkoOfLi3Vs9B (Google Argon 4 - Sounds & Waves)
+7. https://share.gemini.google/Qfu0aTRVzmkI (Google Argon 4 - F1 Quiz with AI Agents)
 
 
 ## Functional Leadership 
