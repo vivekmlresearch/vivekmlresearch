@@ -12,7 +12,7 @@ AI Projects & Prototypes:-
 2. https://vivekmlresearch.github.io/3d-pathfinding-lab/ (Claude Sonnet - Deterministic Algorithms)
 3. https://vivekmlresearch.github.io/ai-data-lineage-control-plane/ (GPT 6 Astra)
 4. https://vivekmlresearch.github.io/enterprise-ai-os/ (GPT 6 Astra)
-5. https://share.gemini.google/FtkMSP61vafr (Google Argon 4 - Trusted - End-to-End Semiconductor Wafer Ultrasound Inspection PCB )
+5. https://share.gemini.google/FtkMSP61vafr (Google Argon 4 - Trusted - End to End Semiconductor Wafer Ultrasound Inspection PCB)
 6. https://share.gemini.google/vkoOfLi3Vs9B (Google Argon 4 - Trusted - Sounds & Waves)
 
 
