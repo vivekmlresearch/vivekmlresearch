@@ -7,6 +7,15 @@
 
 ---
 
+AI Prototypes:-
+1. https://vivekmlresearch.github.io/ai-systems-engineering-roadmap/ (GPT 6 Astra)
+2. https://vivekmlresearch.github.io/3d-pathfinding-lab/ (Claude - Deterministic Algorithms)
+3. https://vivekmlresearch.github.io/ai-data-lineage-control-plane/ (GPT 6 Astra)
+4. https://vivekmlresearch.github.io/enterprise-ai-os/ (GPT 6 Astra)
+5. https://share.gemini.google/Qfu0aTRVzmkI (Google Argon - Trusted - F1 AI Agents Racing )
+6. https://share.gemini.google/FtkMSP61vafr (Google Argon - Trusted - Semiconductor Quality Checking)
+
+
 ## Functional Leadership 
 
 Product Management, Commercial Finance, Market strategy development, Go-to-market planning, Global Data Regulations, Cross Functional Collaborations,  Quality and Sales enablement.
