@@ -14,7 +14,7 @@ AI Projects & Prototypes:-
 4. https://vivekmlresearch.github.io/enterprise-ai-os/ (GPT 6 Astra - A control plane for an AI and software organization)
 5. https://share.gemini.google/FtkMSP61vafr (Google Argon 4 - Trusted (T) - End to End Semiconductor Wafer Inspection PCB)
 6. https://share.gemini.google/vkoOfLi3Vs9B (Google Argon 4 - T - Sounds & Waves)
-7. https://share.gemini.google/Qfu0aTRVzmkI (Google Argon 4 - T - F1 Quiz with AI Agents)
+7. https://share.gemini.google/nxIYFBNagJOM (Google Argon 4 - T - F1 Quiz with AI Agents)
 
 
 ## Functional Leadership 
