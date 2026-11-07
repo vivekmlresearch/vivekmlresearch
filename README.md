@@ -17,7 +17,7 @@ AI Projects & Prototypes:-
 7. https://share.gemini.google/nxIYFBNagJOM (Google Argon 4 - T - F1 Quiz with AI Agents)
 8. https://share.gemini.google/5UDe4xqjdIx2 (Google Argon - T - Synthetic Data Generation Techniques)
 9. https://share.gemini.google/8chQSe0L9YOM ((Google Argon - T - Digital Twin's Prototypes)
-10. https://share.gemini.google/d3aQZYx5O4yv (Google Argon - T - Boardroom Business Simulation)
+10. https://share.gemini.google/d3aQZYx5O4yv (Google Argon - T - Business Simulation)
 
 
 ## Functional Leadership 
