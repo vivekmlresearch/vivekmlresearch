@@ -15,6 +15,9 @@ AI Projects & Prototypes:-
 5. https://share.gemini.google/FtkMSP61vafr (Google Argon 4 - Trusted (T) - End to End Semiconductor Wafer Inspection PCB)
 6. https://share.gemini.google/vkoOfLi3Vs9B (Google Argon 4 - T - Sounds & Waves)
 7. https://share.gemini.google/nxIYFBNagJOM (Google Argon 4 - T - F1 Quiz with AI Agents)
+8. https://share.gemini.google/5UDe4xqjdIx2 (Google Argon - T - Synthetic Data Generation Techniques)
+9. https://share.gemini.google/8chQSe0L9YOM ((Google Argon - T - Digital Twin's Prototypes)
+10. https://share.gemini.google/8chQSe0L9YOM (Google Argon - T - Executive Boardroom Business Simulation)
 
 
 ## Functional Leadership 
